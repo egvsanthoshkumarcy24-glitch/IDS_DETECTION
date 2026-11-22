@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Multi-Stage Intrusion Detection System
+# 🛡️ Multi-Stage Intrusion Detection System-
 
 <p align="center">
   <strong>Real-time ML-powered Network Security with Intelligent Threat Detection</strong>
